@@ -6,3 +6,4 @@ second = number//10%10
 #Print the vallue of the 'answer'. 
 answer = first+second 
 print(answer)
+ 
